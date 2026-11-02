@@ -1,2 +1,2 @@
-# Enterprice-Resource-Planning
+# Enterprise-Resource-Planning
 p
